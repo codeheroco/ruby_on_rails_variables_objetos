@@ -33,4 +33,4 @@ Funda en mayo de 2013 como un proyecto de cinco jóvenes venezolanos, residentes
 
 [1]:http://codehero.co/ruby-on-rails-desde-cero-instalacion-configuracion/
 [2]:http://codehero.co/ruby-on-rails-desde-cero-estructura-del-proyecto/
-[3]:http://codehero.co/ruby-on-rails-desde-cero-estructura-del-proyecto/
+[3]:http://codehero.co
